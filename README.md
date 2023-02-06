@@ -79,5 +79,4 @@ or you can simply execute the make file.In this case it will only compile the fi
 
 ## See Also
 
-* [React Resume](https://github.com/Yahyakiani/reactJs-resume-template) - A Multi-page React theme to introduce yourself.
-* [Hosted here](https://yahyakiani.github.io/reactJs-resume-template/)
+
